@@ -1,0 +1,23 @@
+﻿GUI design
+
+image loading+
+
+image rotation
+
+folder browsing+
+
+store last directory
+
+efficiency
+
+Shuffle mode
+
+alter fileIO, so that it nolonger only holds full filepaths
+
+split filenames and paths to folder
+
+.gif extension capability+
+
+.webm extension
+
+
